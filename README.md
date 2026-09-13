@@ -1,6 +1,4 @@
-# multilayer-perceptron
-
-# Fashion-MNIST Neural Network Assignment
+# Fashion-MNIST Neural Network 
 
 This repository contains a Jupyter notebook implementing and analysing neural
 networks on the Fashion-MNIST dataset, covering backpropagation from scratch,
